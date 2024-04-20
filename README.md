@@ -3,19 +3,18 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Karma, a full-stack freelance app developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+👨‍💻 Full Stack App Developer | 🌐 App Enthusiast | 🚀 Passionate about Innovation 📚 
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+🔭 My toolkit comprises Flutter for crafting digital landscapes, Material for adding stylish paint     strokes, Dart for weaving logic into code, Bash as my command-line palette, and GNU/Linux as my trusty canvas.
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+🌱 I’m currently expanding my skills in Flutter and AWS.
 
-- ⚡ Fun fact: I use tabs over spaces  
+❓ Ask me anything related to the app development and related technologies.
+
+⚡ Coding can "power up" your brain.
   
 
 <br/>  
