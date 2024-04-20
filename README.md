@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&random=false&width=435&lines=Its+K+4+Karma" alt="Typing SVG" /></a>
+<a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&random=false&width=435&lines=Its+K+4+Karma" alt="Typing SVG" /></a>
 
 ----
 <div align="center">
@@ -121,9 +121,9 @@
 
 <br/>  
 
-## Recent Blog Posts  
+## My Projects  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+Coming Soon 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
@@ -143,4 +143,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center"><a href="" target="_blank"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&pause=1000&multiline=true&width=435&lines=%E2%9C%A8EVER+POSITIVE%2C+NEVER+NEGATIVE%E2%9C%A8" alt="Typing SVG" /></a></div>
+<div align="center"><a href="" target="_blank"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Mooli&pause=1000&multiline=true&width=435&lines=%E2%9C%A8EVER+POSITIVE%2C+NEVER+NEGATIVE%E2%9C%A8" alt="Typing SVG" /></a></div>
