@@ -103,6 +103,13 @@
 
 <br/>  
 
+## My Projects  
+<!-- BLOG-POST-LIST:START -->  
+Coming Soon 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://instagram.com/kp4karma" target="_blank">
@@ -121,12 +128,7 @@
 
 <br/>  
 
-## My Projects  
-<!-- BLOG-POST-LIST:START -->  
-Coming Soon 
-<!-- BLOG-POST-LIST:END -->  
 
-<br/>  
 
 <div align="center"><img src="" /></div>  
 
