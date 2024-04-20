@@ -130,18 +130,14 @@ Coming Soon
 
 
 
-<div align="center"><img src="" /></div>  
+
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kp4karma&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-<div align="center"></div>
 <br />
 
 ----
