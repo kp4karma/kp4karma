@@ -8,7 +8,8 @@
 
 👨‍💻 Full Stack App Developer | 🌐 App Enthusiast | 🚀 Passionate about Innovation 📚 
 
-🔭 My toolkit comprises Flutter for crafting digital landscapes, Material for adding stylish paint     strokes, Dart for weaving logic into code, Bash as my command-line palette, and GNU/Linux as my trusty canvas.
+🔭 My toolkit comprises Flutter for crafting digital landscapes, Material for adding stylish paint 
+   strokes, Dart for weaving logic into code, Bash as my command-line palette, and GNU/Linux as my trusty canvas.
 
 🌱 I’m currently expanding my skills in Flutter and AWS.
 
