@@ -87,6 +87,18 @@
 
 <br/>  
 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kp4karma&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kp4karma&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
 
 ## Connect with me  
 <div align="center">
@@ -99,21 +111,12 @@
 </div>  
   
 
+
+
+
+
+
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kp4karma&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kp4karma&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
