@@ -1,3 +1,7 @@
+<div align="center"><a href="" target="_blank"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Its+K+4+Karma" alt="Typing SVG" /></a></div>
+
+----
+
 <div align="center">
 <img src="https://github.com/kp4karma/kp4karma/blob/main/assets/banner.avif" align="center" style="width: 100%" />
 </div>  
@@ -140,4 +144,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center"><a href="https://profilinator.rishav.dev/" target="_blank"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&pause=1000&multiline=true&width=435&lines=%E2%9C%A8EVER+POSITIVE%2C+NEVER+NEGATIVE%E2%9C%A8" alt="Typing SVG" /></a></div>
+<div align="center"><a href="" target="_blank"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&pause=1000&multiline=true&width=435&lines=%E2%9C%A8EVER+POSITIVE%2C+NEVER+NEGATIVE%E2%9C%A8" alt="Typing SVG" /></a></div>
