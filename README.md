@@ -1,18 +1,18 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />  Namaste, I'm Deep!
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />  Hey there, I'm Karma Patel!
 
-💻 Full Stack Developer | 🌐 Web Enthusiast | 🚀 Passionate about Innovation 📚  | :octocat: [My Resume](https://drive.google.com/file/d/1pF5H110Plyp_8oxeCdKnTuCPQkYCE8ac/view?usp=sharing)
+💻 Full Stack Developer | 🌐 Web Enthusiast | 🚀 Passionate about Innovation 📚  | :octocat:: [My Resume](https://drive.google.com/file/d/1pF5H110Plyp_8oxeCdKnTuCPQkYCE8ac/view?usp=sharing)
 
 <table>
   <tr>
-    <th><img src="/assets/programmer.gif" alt="Programmer GIF"></th>
+    <th><img src="./assets/programmer.gif" alt="Programmer GIF"></th>
     <th><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&pause=1000&multiline=true&width=435&lines=%E2%9C%A8EVER+POSITIVE%2C+NEVER+NEGATIVE%E2%9C%A8" alt="Typing SVG" /></a><br>🌐 Welcome to my digital haven in the vast world of 1s and 0s. This is my humble abode in the Digital Universe. 🏠✨</th>
   </tr>
 </table>
 
 
-## <img src="/assets/Developer.gif" alt="Developer GIF" width="40" height="35"> About Me:
+## <img src="./assets/Developer.gif" alt="Developer GIF" width="40" height="35"> About Me:
 
-👨‍💻 I'm Deep, a digital explorer navigating the binary cosmos.
+👨‍💻 I'm Karma Patel, a digital explorer navigating the binary cosmos.
 
 💻 My creative canvas includes HTML, where I craft digital landscapes; CSS, where I paint them with style; Python, where I weave logic into code; Bash, my command-line palette; and GNU/Linux, my trusty canvas.
 
@@ -66,12 +66,12 @@
   <tr>
     <th align="center" colspan="6">Tools</th>
     <td>
-      <img src="/assets/jasper.png" width="40" height="40" alt="Jasper Software">
-      <img src="/assets/postman.png" width="40" height="40" alt="Postman">
+      <img src="./assets/jasper.png" width="40" height="40" alt="Jasper Software">
+      <img src="./assets/postman.png" width="40" height="40" alt="Postman">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40" alt="Jira">
-      <img src="/assets/office365.png" width="40" height="40" alt="Microsoft 365">
-      <img src="/assets/geoserver.jpeg" width="40" height="40" alt="GeoServer">
+      <img src="./assets/office365.png" width="40" height="40" alt="Microsoft 365">
+      <img src="./assets/geoserver.jpeg" width="40" height="40" alt="GeoServer">
     </td>
   </tr>
 </table>
@@ -79,18 +79,15 @@
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats: 
 
 
-###
+##
 
 ## <h2 align="left">📝My Contributions</h2>
 
-###
+##
 
 ## <img src="https://raw.githubusercontent.com/deeps36/deeps36/output/snake.svg" alt="Snake animation" />
 
-###
-
-
-<h3>Profile visits :</h3>
+## <h3>Profile visits :</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/deeps36/count.svg)  
 
@@ -98,7 +95,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deeps36&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deeps36&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html)](https://github.com/deeps3/github-readme-stats)
 
- - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
+ - If you have any suggestions for this README, feel free to submit a pull request. And if you liked it, go ahead and use it for yourself! (P.S. Don't forget to star it! 😄)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
